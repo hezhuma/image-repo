@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T15:15:55.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WENBZuzf6JZlACiY7GOR" version="16.1.2" type="device"><diagram id="8Z35-QLSnhJETDdAsFzb" name="Page-1">7Vptb+I4EP41kXY/UOWd8JHwcj2JlfbKVtfel5NJDLFq4qxjCuyvPzuxSZyE0vb6wkpUqMRje2zPPDPPJMRwRuvdHxRkyTcSQ2zYZrwznLFh25ZpmvxLSPalxPeCUrCiKJaDKsEc/YJqppRuUAxzbSAjBDOU6cKIpCmMmCYDlJKtPmxJsL5qBlawJZhHALelf6OYJaU0sPuV/BqiVaJWtvxB2bMGarA8SZ6AmGxrImdiOCNKCCuv1rsRxMJ4yi7lvOmR3sPGKEzZcyas8pvkZ/jXzXRxc7tIbxezAG57TqnlEeCNPLDcLNsrC1CySWMolJiGE24TxOA8A5Ho3XKfc1nC1pi3LH6ZM0oeDpYSE+QCkDK4O7pz62APDiRI1pDRPR8iJzjSpBJCjjTotvJH35OypOYLV1keSAysDporM/ELaaluqw0x+Xf2OFrcudf/5LP7u0eabnpeh9V8zJcNM812/s+N8G64BnSFUsMZ8l4z2/H/hWHMUt5jJCv73FofNxfrAYxWcl7EjQVppZNfreR3sTKqCcBauAW3W38KHUvhPCXWp2gauWlQc5UFbUryDKSdh16SlPW20h/iBH2RC5rbnzMKGFzta4uWGk+tywdmTVlCxU5UDlFLWceN9ip3YbhkNX8d0/1bbVmMJRkUvvjyY5/Br+Vocfnc8zTShoh4xPPosITwuAB5KAE9LjcUEj5qiYusuEQiBgvUSBawbNmegjXCIvivIX6EQquedMTUEcGEFis7sQeD2D0ko1pPYC8c3z/stpWBOvLU0aTkuo6WlSzTbqUla9CRlizzvdKSf4ZpaaEEU0Rz1hHti98oSi6B/bmBDWCwjLoC248CuFi+TWDbg2a50RHYrt8O7MF7xXX/dJEG03goql3eWmASPXBTxCBPirJNWJL3Tws/FDUZb9VdUbO4XuzBHWJ34vrKk637Ws94V2/sD7r5kctJtqfa94dt8EY1r2ipiUddl5MNjeDpvMd4SEB2umyDsVbyt4FQd7QvnUohBgw96ncFXZ6W6r4TxI9RK2F1trCVD5WK8pByVr2KbyjyvBOKSiu0FBXAO5zx9VgMzplj5pDfBsYXkrmQzLmTjKsegyiSsbpIxvpAkhl8GslUhPEivngNOb2eY4Lz5xjLP3JH8lKOcewTit6ZY9Szv/MkmR8JoheOuXDM2XOMb57bjYxldQT2R5NM/4xZRmW+C818BM24LTTe5vApQPL8k7ZBp8HzGQisw69W85wAoFWH3wGMbw5A7/wBaPeDK98aVH86ilznKhhwjlF/3uvQ2Xy+a1sfjM72j0wjzjS8amkhNN+iNQYpVOQke6wam8nqxgm7SS9KEI5nYE82wuc5A9GDaoUJoegXVwuq3/gAVQxo+9qIuZgpQUihKBq+KxBaDdE3sNMGzkDOpCAiGIMsR4vDMcoiISSMkbUc9CmUGjSw9ibP/OVqNzBiIF3xM1epVk1TGPTc1npBx3K2r68GMHd+yiunUKSk/F3g2v7xocebVZ3MAasuG/AtMP2U4465ulGqdUM7z0CE0tWsGDN2K8mNtJerV3kJiuMiy1PCAAMlBgXgMhHphUG9kH+42UciD3t8SyPetqo2/4jhlPGAFadGBd4gB/gW5qwTiU+ngNP43OuOP4XHJkDersLrej4YGiPbGJoyfX3pwMRXQ+zIscxnlPrVuAuO3gtH3jPzmhv8fxx1vpfSLs2MSd8Yjo2BLy4GnjH0jIlvDANjaBkTzwhHRjA1JtPiIqhB7DtgIvmprsEx2LReYlFISUnJrDXwSNFJcl1zDIhlOt+a0cvDIx560Wsyjs4Wrqq3tBqs3/ai8/L7Pd6s3lwqOaR6/8uZ/Ac=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-30T15:55:47.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="vMH7KcmTXkpVVehVxgCB" version="16.1.2" type="github">
+  <diagram id="8Z35-QLSnhJETDdAsFzb" name="Page-1">
+    <mxGraphModel dx="1000" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gsRhqBQRFbRUbnUbL8ew-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="39" y="30" width="750" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;span style=&quot;font-weight: 700&quot;&gt;Strategy&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ operate(Type): Type&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="443" y="102" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;FirstStrategy&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ operate(Type): Type&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="299" y="302" width="146" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-7" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Alo_LvCbX4HZsLYXvrnu-6" target="Alo_LvCbX4HZsLYXvrnu-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="393" y="222" as="sourcePoint" />
+            <mxPoint x="553" y="222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;SecondStrategy&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ operate(Type): Type&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="458" y="312" width="141" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-9" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Alo_LvCbX4HZsLYXvrnu-8" target="Alo_LvCbX4HZsLYXvrnu-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="163" y="102" as="sourcePoint" />
+            <mxPoint x="323" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ThirdStrategy&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ operate(Type): Type&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="609" y="302" width="146" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-11" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Alo_LvCbX4HZsLYXvrnu-10" target="Alo_LvCbX4HZsLYXvrnu-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="163" y="102" as="sourcePoint" />
+            <mxPoint x="323" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-14" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Alo_LvCbX4HZsLYXvrnu-15" target="Alo_LvCbX4HZsLYXvrnu-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="278.6199999999999" y="143.89200000000005" as="sourcePoint" />
+            <mxPoint x="443" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-15" value="Context" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="89" y="102" width="190" height="100" as="geometry">
+            <mxRectangle x="100" y="254" width="80" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-16" value="- Strategy strategy" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Alo_LvCbX4HZsLYXvrnu-15" vertex="1">
+          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Alo_LvCbX4HZsLYXvrnu-18" value="+ Context(Strategy strategy)&#xa;+ operate(Type): Type&#xa;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Alo_LvCbX4HZsLYXvrnu-15" vertex="1">
+          <mxGeometry y="52" width="190" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gsRhqBQRFbRUbnUbL8ew-4" value="策略模式（Strategy Pattern）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="460" width="167" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
