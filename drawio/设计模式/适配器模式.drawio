@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T15:28:42.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="YJpK1vboHs_QuD58WoZo" version="16.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-13T14:55:35.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lGl560pWQ1094yp33qhd" version="16.2.4" type="github" pages="2">
   <diagram id="1OWQUjhUZqkLK6st8NYv" name="类的适配器模式">
-    <mxGraphModel dx="946" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
