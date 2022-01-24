@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T01:36:10.244Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="NUp0zq7o4xHwvxWjEH-5" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T01:36:17.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="jaXfdONpL9lzouV98KfI" version="16.4.5" type="github">
   <diagram id="PSJOeMjNMGUrnxPs66qq" name="Page-1">
     <mxGraphModel dx="872" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
           <mxGeometry x="491" y="86" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tfyxs9RwnpRT3l7iblyx-3" value="RabbitMQ 架构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="351" y="410" width="126" height="30" as="geometry" />
+          <mxGeometry x="351" y="401" width="126" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
