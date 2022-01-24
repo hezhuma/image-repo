@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T01:28:28.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qcRjNGohHc_bjWHqcGr4" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T01:28:44.641Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="8te6ssEfcCP_EQQ4k5WO" version="16.4.5" type="github">
   <diagram id="PSJOeMjNMGUrnxPs66qq" name="Page-1">
     <mxGraphModel dx="1051" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,10 +34,10 @@
         <mxCell id="qhdwFen5UYOYH1Ov315L-10" value="channel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="623.5" y="230" width="102.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qhdwFen5UYOYH1Ov315L-11" value="Producer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="qhdwFen5UYOYH1Ov315L-11" value="Producer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="25" y="160" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qhdwFen5UYOYH1Ov315L-13" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="qhdwFen5UYOYH1Ov315L-13" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="757" y="160" width="57" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qhdwFen5UYOYH1Ov315L-14" value="Virtual Host" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
