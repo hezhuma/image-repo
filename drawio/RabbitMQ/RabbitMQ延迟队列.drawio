@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T12:24:02.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="8NuvIp4WCuW01UaftC9W" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T14:08:20.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wiwp2o63YoZgxLHrkxJw" version="16.6.1" type="github">
   <diagram id="K3yFuN3bXhvdaabBG9vb" name="Page-1">
     <mxGraphModel dx="946" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
           <mxGeometry x="502.5" y="120" width="101" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AWUChQmKnUbo7CcPn0ns-23" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;消息成为私信的三种情况&lt;/font&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;：&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1.队列消息长度到达限制&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2.消费者拒收消息，并且不重回队列&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;3.原队列存在消息过期设置，消息到达过期时间未被消费&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="370" width="380" height="120" as="geometry" />
+          <mxGeometry x="80" y="390" width="380" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
