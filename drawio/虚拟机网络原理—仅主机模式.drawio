@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T09:25:11.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="MCa2sqpr2V2eevX7Ak_k" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T09:26:14.283Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="47lAkhD-A6PScTel-VJ8" version="19.0.3" type="github">
   <diagram id="stnzDDtHNmjzy7GHCDT0" name="Page-1">
     <mxGraphModel dx="1201" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,10 +14,10 @@
           <mxGeometry x="304.4" y="607.5" width="61.2" height="55" as="geometry" />
         </mxCell>
         <mxCell id="KRmHvhTOdGDJ5uWnzA2R-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="20" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KRmHvhTOdGDJ5uWnzA2R-9" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeWidth=2;dashed=1;strokeColor=#99C9FF;" vertex="1" parent="1">
-          <mxGeometry x="490" y="360" width="440" height="340" as="geometry" />
+          <mxGeometry x="520" y="360" width="410" height="340" as="geometry" />
         </mxCell>
         <mxCell id="KRmHvhTOdGDJ5uWnzA2R-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#2499FF;" edge="1" parent="1" source="KRmHvhTOdGDJ5uWnzA2R-48" target="KRmHvhTOdGDJ5uWnzA2R-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,7 +43,7 @@
             <mxPoint x="260" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KRmHvhTOdGDJ5uWnzA2R-31" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;虚拟DHCP服务器&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dhcp_server;" vertex="1" parent="1">
+        <mxCell id="KRmHvhTOdGDJ5uWnzA2R-31" value="&lt;font color=&quot;#999999&quot; style=&quot;font-size: 11px;&quot;&gt;虚拟DHCP服务器&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dhcp_server;" vertex="1" parent="1">
           <mxGeometry x="840" y="410" width="42.23" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KRmHvhTOdGDJ5uWnzA2R-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#2499FF;strokeWidth=0.5;" edge="1" parent="1" source="KRmHvhTOdGDJ5uWnzA2R-36">
@@ -143,7 +143,7 @@
             <mxPoint x="185.75" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KRmHvhTOdGDJ5uWnzA2R-66" value="路由器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="KRmHvhTOdGDJ5uWnzA2R-66" value="&lt;font color=&quot;#999999&quot; style=&quot;font-size: 11px;&quot;&gt;路由器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="215.75" y="355" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRmHvhTOdGDJ5uWnzA2R-67" value="&lt;span style=&quot;background-color: rgb(105, 255, 255);&quot;&gt;192.168.1.1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
@@ -175,7 +175,7 @@
         <mxCell id="KRmHvhTOdGDJ5uWnzA2R-78" value="&lt;span style=&quot;background-color: rgb(105, 255, 255);&quot;&gt;192.168.1.103&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="304.4" y="555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRmHvhTOdGDJ5uWnzA2R-79" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; color=&quot;#2499ff&quot;&gt;虚拟交换机&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#69FFFF;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="KRmHvhTOdGDJ5uWnzA2R-79" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#999999&quot; style=&quot;font-size: 11px;&quot;&gt;虚拟交换机&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#69FFFF;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="737" y="505" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRmHvhTOdGDJ5uWnzA2R-80" value="&lt;span style=&quot;background-color: rgb(105, 255, 255);&quot;&gt;192.168.1.101&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="KRmHvhTOdGDJ5uWnzA2R-81" value="&lt;span style=&quot;background-color: rgb(105, 255, 255);&quot;&gt;192.168.1.102&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KRmHvhTOdGDJ5uWnzA2R-82" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#999999&quot; style=&quot;font-size: 11px;&quot;&gt;交换机&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#69FFFF;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="495" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
