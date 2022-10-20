@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T08:11:50.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-YyYs2t7UcVM7ZlG7bJQ" version="20.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-20T08:12:06.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5UzaW_Hmf-rU-xnyYDpA" version="20.4.2" type="github" pages="2">
   <diagram id="wbpPizKcNRmUSNCPmXGB" name="第 1 页">
     <mxGraphModel dx="1493" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wPDFs3tOpfMrtM76-Hfs-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeWidth=2;dashed=1;strokeColor=#99C9FF;" vertex="1" parent="1">
+        <mxCell id="wPDFs3tOpfMrtM76-Hfs-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeWidth=2;dashed=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="20" y="220" width="430" height="270" as="geometry" />
         </mxCell>
         <mxCell id="wPDFs3tOpfMrtM76-Hfs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#73A2FF;" edge="1" parent="1" source="wPDFs3tOpfMrtM76-Hfs-3" target="wPDFs3tOpfMrtM76-Hfs-10">
@@ -195,7 +195,7 @@
         <mxCell id="wPDFs3tOpfMrtM76-Hfs-21" value="VLAN 20" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="460" width="52" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="wPDFs3tOpfMrtM76-Hfs-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeWidth=2;dashed=1;strokeColor=#99C9FF;" vertex="1" parent="1">
+        <mxCell id="wPDFs3tOpfMrtM76-Hfs-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeWidth=2;dashed=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="20" y="600" width="430" height="270" as="geometry" />
         </mxCell>
         <mxCell id="wPDFs3tOpfMrtM76-Hfs-26" value="虚拟机1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
