@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T02:11:34.938Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dhOLq1RWzQhzVydfxKki" version="20.4.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-20T02:11:50.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="eU1wQfOXNS7rskF7JKpJ" version="20.4.1" type="github" pages="3">
   <diagram id="stnzDDtHNmjzy7GHCDT0" name="Host-Only模式">
     <mxGraphModel dx="963" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -359,8 +359,8 @@
         <mxCell id="kI0CXkyIWb5qw3aIl5LB-42" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#999999&quot; style=&quot;font-size: 11px;&quot;&gt;交换机&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#69FFFF;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="110" y="515" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kI0CXkyIWb5qw3aIl5LB-43" value="&lt;font color=&quot;#ff0000&quot;&gt;桥接模式是通过虚拟网桥将主机上的网卡与虚拟交换机VMnet0连接在一起,虚拟机上的虚拟网卡（并不是VMware Network Adapter VMnet1和VMware Network Adapter VMnet8）都连接在虚拟机交换机上，所以网桥模式的虚拟机IP必须与主机在同一网段且子网掩码、网关与DNS也要与主机网卡一致。&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0.5;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="515" y="270" width="405" height="85" as="geometry" />
+        <mxCell id="kI0CXkyIWb5qw3aIl5LB-43" value="&lt;font color=&quot;#ff0000&quot;&gt;桥接模式是通过虚拟网桥将主机上的网卡与虚拟交换机VMnet0连接在一起,虚拟机上的虚拟网卡（并不是VMware Network Adapter VMnet1和VMware Network Adapter VMnet8）都连接在虚拟机交换机上，所以网桥模式的虚拟机IP必须与主机在同一网段且子网掩码、网关与DNS也要与主机网卡一致。&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0.5;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="315" width="390" height="95" as="geometry" />
         </mxCell>
         <mxCell id="kI0CXkyIWb5qw3aIl5LB-45" value="&lt;font style=&quot;background-color: rgb(115, 162, 255);&quot; color=&quot;#ffffff&quot;&gt;虚拟网桥&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="563.75" width="50" height="15" as="geometry" />
