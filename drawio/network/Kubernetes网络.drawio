@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T13:17:32.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QLHV2qvel2gP-msBX8cp" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-26T13:18:32.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="W-ID_xVyShFKp8PpnyY5" version="20.6.0" type="github" pages="2">
   <diagram id="a1CHIfD1MNtg-3mOQyhZ" name="两级运营案例">
     <mxGraphModel dx="1390" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -358,6 +358,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="N1VwCJVqrsjkSktoGVM1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#006666;strokeWidth=2;fontSize=14;fillColor=#00FF00;" edge="1" parent="1" source="3s_vJAsIztchjAAM_SYt-11" target="N1VwCJVqrsjkSktoGVM1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3s_vJAsIztchjAAM_SYt-11" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.envelope_(message);" vertex="1" parent="1">
           <mxGeometry x="222" y="820" width="34" height="30" as="geometry" />
         </mxCell>
@@ -372,6 +375,9 @@
             <mxPoint x="238.5" y="760" as="sourcePoint" />
             <mxPoint x="238.5" y="806.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="N1VwCJVqrsjkSktoGVM1-6" value="192.168.0.1/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="890" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
