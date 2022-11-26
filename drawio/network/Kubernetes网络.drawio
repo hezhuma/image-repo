@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T12:52:50.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vj30-vZxb5nxgXVkCWN1" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-26T12:54:56.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Ys2dy2G3YHRQ31hI3Iik" version="20.6.0" type="github" pages="2">
   <diagram id="a1CHIfD1MNtg-3mOQyhZ" name="两级运营案例">
     <mxGraphModel dx="1390" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,7 +236,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QuA4jJqS0AAKYw--tU8u-1" value="我要访问百度首页" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="300" width="200" height="50" as="geometry" />
+          <mxGeometry x="210" y="300" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuA4jJqS0AAKYw--tU8u-3" value="GET、URL、HTTP 1.1&lt;br&gt;正文格式：text/html、正文长度：1234" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
