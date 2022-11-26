@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T12:55:49.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wcCaFV02O10EmfNCG7UD" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-26T12:56:19.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NkVOPaUR8KdChluQYC21" version="20.6.0" type="github" pages="2">
   <diagram id="a1CHIfD1MNtg-3mOQyhZ" name="两级运营案例">
     <mxGraphModel dx="1390" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="QuA4jJqS0AAKYw--tU8u-4" value="&lt;b&gt;HTTP头&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QuA4jJqS0AAKYw--tU8u-5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/DNS_Private_Zones.svg;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
