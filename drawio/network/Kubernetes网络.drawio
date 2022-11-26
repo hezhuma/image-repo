@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T13:11:00.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4fn2LzJlU0ITrCuccNof" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-26T13:11:59.935Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vvSAMN1sAjrptU1qYmHb" version="20.6.0" type="github" pages="2">
   <diagram id="a1CHIfD1MNtg-3mOQyhZ" name="两级运营案例">
     <mxGraphModel dx="1390" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,6 +335,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="200" as="sourcePoint" />
             <mxPoint x="230" y="246.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3s_vJAsIztchjAAM_SYt-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#00FF00;strokeWidth=4;fillColor=#00FF00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="668.5" y="500" as="sourcePoint" />
+            <mxPoint x="668.5" y="546.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3s_vJAsIztchjAAM_SYt-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#00FF00;strokeWidth=4;fillColor=#00FF00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="363.5" as="sourcePoint" />
+            <mxPoint x="450" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3s_vJAsIztchjAAM_SYt-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#00FF00;strokeWidth=4;fillColor=#00FF00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459" y="729" as="sourcePoint" />
+            <mxPoint x="413" y="729" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="439" y="729" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
