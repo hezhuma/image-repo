@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T12:59:38.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BUbK-HGifczPsHcd4oXJ" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-26T13:00:04.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Z5jzA_4vCHPM22Z6Ictr" version="20.6.0" type="github" pages="2">
   <diagram id="a1CHIfD1MNtg-3mOQyhZ" name="两级运营案例">
     <mxGraphModel dx="1390" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="QuA4jJqS0AAKYw--tU8u-9" value="&lt;b&gt;IP头&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P5HdTQ3S4beLaftWQtpo-1" value="https://www.baidu.com" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.url;fillColor=#e0e0e0;strokeColor=#c0c0c0;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;spacingTop=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="180" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
