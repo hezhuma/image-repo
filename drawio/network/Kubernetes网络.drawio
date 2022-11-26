@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T13:06:44.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FkixaN9qT8vpDOb9QcT3" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-26T13:08:42.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IU5d0oBPJftHYXBw7A-R" version="20.6.0" type="github" pages="2">
   <diagram id="a1CHIfD1MNtg-3mOQyhZ" name="两级运营案例">
     <mxGraphModel dx="1390" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,10 +245,10 @@
           <mxGeometry x="44" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QuA4jJqS0AAKYw--tU8u-5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/DNS_Private_Zones.svg;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="140" width="50" height="50" as="geometry" />
+          <mxGeometry x="570" y="90" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P5HdTQ3S4beLaftWQtpo-1" value="https://www.baidu.com" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.url;fillColor=#e0e0e0;strokeColor=#c0c0c0;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;spacingTop=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="120" width="180" height="33.5" as="geometry" />
+          <mxGeometry x="150" y="90" width="180" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="P5HdTQ3S4beLaftWQtpo-4" value="我要访问百度首页&lt;br&gt;https://www.baidu.com" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="554" y="290" width="230" height="50" as="geometry" />
@@ -312,6 +312,18 @@
         </mxCell>
         <mxCell id="P5HdTQ3S4beLaftWQtpo-30" value="&lt;b&gt;MAC头&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3s_vJAsIztchjAAM_SYt-2" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;strokeColor=#66FFB3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="100" as="sourcePoint" />
+            <mxPoint x="540" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3s_vJAsIztchjAAM_SYt-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="538" y="120" as="sourcePoint" />
+            <mxPoint x="368" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
