@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T13:19:50.132Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ebw1uYKIlAWV5_baxBYH" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-20T13:20:37.850Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hH2EniaPyRoGtFNRRUNR" version="20.6.0" type="github" pages="2">
   <diagram id="PSJOeMjNMGUrnxPs66qq" name="Page-1">
     <mxGraphModel dx="1081" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,6 +234,9 @@
         </mxCell>
         <mxCell id="E9LaiOi_K04kLw4PdV5R-6" value="持久化存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fontColor=#ffffff;fillColor=#6d8764;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="520" y="260" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E9LaiOi_K04kLw4PdV5R-10" value="&lt;font color=&quot;#666666&quot;&gt;持久化消息&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="325" y="400" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
