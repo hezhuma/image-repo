@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T07:31:59.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="T-eYaT9GfQ6TRGviEh1A" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-23T07:32:04.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rW8QOtl5am5syqt9qwvX" version="20.7.4" type="github" pages="3">
   <diagram id="a1CHIfD1MNtg-3mOQyhZ" name="两级运营案例">
     <mxGraphModel dx="1332" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
         <mxCell id="Mjz5VdnhIqMCsE9VOuui-0" />
         <mxCell id="Mjz5VdnhIqMCsE9VOuui-1" parent="Mjz5VdnhIqMCsE9VOuui-0" />
         <mxCell id="taIdV9F9APfrGK6BZRZ9-15" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="Mjz5VdnhIqMCsE9VOuui-1">
-          <mxGeometry x="414" y="207.5" width="347.78" height="152.5" as="geometry" />
+          <mxGeometry x="414" y="200" width="356" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ws3SC5ZRTY2HFgBz7mVy-0" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=12;strokeWidth=2;strokeColor=#66B2FF;" vertex="1" parent="Mjz5VdnhIqMCsE9VOuui-1">
           <mxGeometry x="273.09" y="410" width="290" height="390" as="geometry" />
