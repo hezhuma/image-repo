@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T07:18:48.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9neZLkuFdMWPerIKbBjD" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-23T07:19:43.237Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="oLGe8ewi6nZzb1mHfuMA" version="20.7.4" type="github" pages="3">
   <diagram id="a1CHIfD1MNtg-3mOQyhZ" name="两级运营案例">
     <mxGraphModel dx="1332" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,6 +437,24 @@
         </mxCell>
         <mxCell id="sP1O8T5nKN6ChdJgxkfh-22" value="10.4.0.11:30456" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Mjz5VdnhIqMCsE9VOuui-1">
           <mxGeometry x="645.6500000000001" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sP1O8T5nKN6ChdJgxkfh-23" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#3B5C97;fontColor=#FFFFFF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Mjz5VdnhIqMCsE9VOuui-1" source="Mjz5VdnhIqMCsE9VOuui-28" target="sP1O8T5nKN6ChdJgxkfh-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435.0100000000002" y="710" as="sourcePoint" />
+            <mxPoint x="434.03499999999985" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sP1O8T5nKN6ChdJgxkfh-24" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#3B5C97;fontColor=#FFFFFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="Mjz5VdnhIqMCsE9VOuui-1" target="Ws3SC5ZRTY2HFgBz7mVy-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="560" as="sourcePoint" />
+            <mxPoint x="700.6500000000001" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sP1O8T5nKN6ChdJgxkfh-26" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#3B5C97;fontColor=#FFFFFF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="Mjz5VdnhIqMCsE9VOuui-1" target="sP1O8T5nKN6ChdJgxkfh-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="560" as="sourcePoint" />
+            <mxPoint x="365.59000000000015" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
