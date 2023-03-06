@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T03:44:43.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FHfHoCdNYBTYENt5Nu-N" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T03:46:45.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7N-mY8GhFIgjidJRoxNY" version="21.0.2" type="github">
   <diagram name="第 1 页" id="He39Cw0mRwXLMU8mr1HO">
-    <mxGraphModel dx="3926" dy="2830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-2" value="general-internal-nginx&lt;font color=&quot;#232f3e&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;2&lt;/span&gt;&lt;/font&gt;&lt;br&gt;10.116.177.130-131" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="120.97" y="188.6342229199372" width="26.51243493348756" height="26.51243493348756" as="geometry" />
+        </mxCell>
+        <mxCell id="12QfZj_Pv1xLxBVcL5fY-15" value="&lt;b&gt;DMZ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
+          <mxGeometry x="167" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-9" value="&lt;b&gt;云龙机房&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1695" y="40" width="670" height="1040" as="geometry" />
