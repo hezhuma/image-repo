@@ -1,44 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T03:43:39.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rrIB0N86ZkG2xrGMDa-2" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T03:44:00.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fQA2V8KTzCA1uI34GfeF" version="21.0.2" type="github">
   <diagram name="第 1 页" id="He39Cw0mRwXLMU8mr1HO">
-    <mxGraphModel dx="361" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2738" dy="2123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-5" value="&lt;b&gt;西片区机房&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="40" width="670" height="1573.39" as="geometry" />
+          <mxGeometry x="950" y="40" width="670" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-6" value="" style="fillColor=none;strokeColor=#000000;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#000000;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
-          <mxGeometry x="65.65817438692099" y="73.21" width="262.95217983651224" height="346.79" as="geometry" />
+          <mxGeometry x="65.65817438692099" y="48.39130794018011" width="262.95217983651224" height="229.22581178220275" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-7" value="&lt;font color=&quot;#000000&quot;&gt;负载F5&lt;br&gt;&lt;b&gt;s.cmpay.com&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(248 , 249 , 250)&quot;&gt;172.29.78.37:443&lt;/span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/LoadBalancer.svg;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
-          <mxGeometry x="241.20000000000002" y="143.70999999999998" width="44.72752043596731" height="44.72752043596731" as="geometry" />
+          <mxGeometry x="241.20000000000002" y="94.99132446500866" width="29.56458427561253" height="29.56458427561253" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-8" value="nginx&lt;font color=&quot;#232f3e&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;2&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;172.29.80.11-18&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
-          <mxGeometry x="250.0440000000005" y="286.78999999999996" width="38.70299727520436" height="38.70299727520436" as="geometry" />
+          <mxGeometry x="250.0440000000005" y="189.56622325043375" width="25.58241578134635" height="25.58241578134635" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-1" value="&lt;font color=&quot;#000000&quot;&gt;负载F5&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;pc.cmft.com.cn&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/LoadBalancer.svg;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
-          <mxGeometry x="118.66485013623979" y="140.41" width="44.72752043596731" height="44.72752043596731" as="geometry" />
+          <mxGeometry x="118.66485013623979" y="92.81004709576138" width="29.56458427561253" height="29.56458427561253" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-2" value="general-internal-nginx&lt;font color=&quot;#232f3e&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;2&lt;/span&gt;&lt;/font&gt;&lt;br&gt;10.116.177.130-131" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
-          <mxGeometry x="120.97" y="285.38" width="40.11" height="40.11" as="geometry" />
+          <mxGeometry x="120.97" y="188.6342229199372" width="26.51243493348756" height="26.51243493348756" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-9" value="&lt;b&gt;云龙机房&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="40" width="670" height="1573.39" as="geometry" />
+          <mxGeometry x="1700" y="40" width="670" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-10" value="" style="fillColor=none;strokeColor=#000000;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#000000;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-9">
-          <mxGeometry x="65.65817438692099" y="73.21" width="262.95217983651224" height="346.79" as="geometry" />
+          <mxGeometry x="65.65817438692099" y="48.39130794018011" width="262.95217983651224" height="229.22581178220275" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-11" value="&lt;font color=&quot;#000000&quot;&gt;负载F5&lt;br&gt;&lt;b&gt;s.cmpay.com&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(248 , 249 , 250)&quot;&gt;172.29.78.37:443&lt;/span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/LoadBalancer.svg;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-9">
-          <mxGeometry x="241.20000000000002" y="143.70999999999998" width="44.72752043596731" height="44.72752043596731" as="geometry" />
+          <mxGeometry x="241.20000000000002" y="94.99132446500866" width="29.56458427561253" height="29.56458427561253" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-12" value="nginx&lt;font color=&quot;#232f3e&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;2&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;172.29.80.11-18&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-9">
-          <mxGeometry x="250.0440000000005" y="286.78999999999996" width="38.70299727520436" height="38.70299727520436" as="geometry" />
+          <mxGeometry x="250.0440000000005" y="189.56622325043375" width="25.58241578134635" height="25.58241578134635" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-13" value="&lt;font color=&quot;#000000&quot;&gt;负载F5&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;pc.cmft.com.cn&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/LoadBalancer.svg;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-9">
-          <mxGeometry x="118.66485013623979" y="140.41" width="44.72752043596731" height="44.72752043596731" as="geometry" />
+          <mxGeometry x="118.66485013623979" y="92.81004709576138" width="29.56458427561253" height="29.56458427561253" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-14" value="general-internal-nginx&lt;font color=&quot;#232f3e&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;2&lt;/span&gt;&lt;/font&gt;&lt;br&gt;10.116.177.130-131" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-9">
-          <mxGeometry x="120.97" y="285.38" width="40.11" height="40.11" as="geometry" />
+          <mxGeometry x="120.97" y="188.6342229199372" width="26.51243493348756" height="26.51243493348756" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
