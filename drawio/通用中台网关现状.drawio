@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T06:47:06.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="txHuTullXAPt73k6oFYt" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T06:47:33.590Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="B_tNtzJZoUsxwn52m7mz" version="21.0.2" type="github">
   <diagram name="现状部署图" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="599" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,9 +40,6 @@
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-24" value="内部服务网关" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="269.2799999999999" y="340.15625" width="172.34735999999995" height="132.34375" as="geometry" />
         </mxCell>
-        <mxCell id="12QfZj_Pv1xLxBVcL5fY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="12QfZj_Pv1xLxBVcL5fY-5" source="12QfZj_Pv1xLxBVcL5fY-24" target="12QfZj_Pv1xLxBVcL5fY-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-27" value="API网关" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="70.58399999999999" y="340.15625" width="157.89599999999996" height="132.34375" as="geometry" />
         </mxCell>
@@ -73,7 +70,7 @@
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-48" value="网关元数据" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="269.2799999999999" y="507.5" width="172.34735999999995" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="12QfZj_Pv1xLxBVcL5fY-49" value="网关管理后台" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
+        <mxCell id="12QfZj_Pv1xLxBVcL5fY-49" value="网关管理后台" style="fillColor=none;strokeColor=#FF3333;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="68.54399999999998" y="507.5" width="159.93599999999998" height="140" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-52" value="配置库MYSQL ×3&lt;br&gt;10.18.4.139-141" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
