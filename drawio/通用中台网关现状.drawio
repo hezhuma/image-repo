@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T06:22:10.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AJhi5WF1iRkjmhWl0OYD" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T06:25:22.694Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MNhU16hf_Od0-gpO6uiF" version="21.0.2" type="github">
   <diagram name="第 1 页" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="124" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-5" value="&lt;b&gt;西片区机房&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="945" y="40" width="625" height="1040" as="geometry" />
+          <mxGeometry x="945" y="60" width="625" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-6" value="" style="fillColor=none;strokeColor=#000000;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#000000;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="60" y="48.39" width="226.54" height="261.61" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="439.92079303753707" y="100.00004709576137" width="27.578903242175866" height="27.578903242175866" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-18" value="&lt;b&gt;general-internal-nginx&lt;/b&gt;&lt;br&gt;10.16.6.135-136" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
-          <mxGeometry x="441.34350746268643" y="205.8242229199372" width="24.731749005118996" height="24.731749005118996" as="geometry" />
+          <mxGeometry x="441.34350746268643" y="215.0042229199372" width="24.731749005118996" height="24.731749005118996" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-19" value="&lt;b&gt;IDMZ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="425.0002238805969" y="48.39" width="55.97014925373134" height="30" as="geometry" />
@@ -45,6 +45,12 @@
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-27" value="API网关" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="93" y="388.75" width="175" height="282.5" as="geometry" />
+        </mxCell>
+        <mxCell id="12QfZj_Pv1xLxBVcL5fY-29" value="&lt;b&gt;general-igw&lt;/b&gt;&lt;br&gt;10.16.6.130-134&lt;br&gt;10.16.6.146-148&lt;br&gt;10.16.6.137-138&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
+          <mxGeometry x="410.66999999999985" y="450" width="23.66" height="23.66" as="geometry" />
+        </mxCell>
+        <mxCell id="12QfZj_Pv1xLxBVcL5fY-30" value="&lt;b&gt;general-agw&lt;/b&gt;&lt;br&gt;10.16.6.12-13" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
+          <mxGeometry x="168.66999999999985" y="450" width="23.66" height="23.66" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-9" value="&lt;b&gt;云龙机房&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1695" y="40" width="670" height="1040" as="geometry" />
