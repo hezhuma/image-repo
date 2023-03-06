@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T07:03:38.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="i8Ngs9bdpAEOFNQkakg3" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-06T07:07:46.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1s83Ua23xMSU5xKoymg5" version="21.0.2" type="github" pages="2">
   <diagram name="现状部署图" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="469" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="规划部署图" id="9pmJ0tkQoVxnJBE8vZNh">
-    <mxGraphModel dx="1367" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="229" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aXxSjelZ2g2uKkBnGhGE-0" />
         <mxCell id="aXxSjelZ2g2uKkBnGhGE-1" parent="aXxSjelZ2g2uKkBnGhGE-0" />
@@ -356,6 +356,15 @@
         </mxCell>
         <mxCell id="UGcJiPvdgLGFpGg6_YFi-50" value="Idgen序号Redis×6&lt;br&gt;10.18.4.136-141" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;strokeColor=#009900;strokeWidth=2;" vertex="1" parent="UGcJiPvdgLGFpGg6_YFi-22">
           <mxGeometry x="377.02" y="754.54" width="55.33" height="46.48" as="geometry" />
+        </mxCell>
+        <mxCell id="UGcJiPvdgLGFpGg6_YFi-51" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.853;exitY=0.868;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="aXxSjelZ2g2uKkBnGhGE-1" source="aXxSjelZ2g2uKkBnGhGE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="900" as="sourcePoint" />
+            <mxPoint x="1460" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGcJiPvdgLGFpGg6_YFi-52" value="Sync" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="aXxSjelZ2g2uKkBnGhGE-1">
+          <mxGeometry x="1342" y="815" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
