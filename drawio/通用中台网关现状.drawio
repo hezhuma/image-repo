@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T03:50:36.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xjbb398mahmEr4Xn6-SZ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T03:50:43.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rgwk8aAJ5eS9_5LfL4Un" version="21.0.2" type="github">
   <diagram name="第 1 页" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="192" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-18" value="general-internal-nginx&lt;br&gt;10.16.6.135-136" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="426.1735074626864" y="205.8242229199372" width="24.731749005118996" height="24.731749005118996" as="geometry" />
         </mxCell>
-        <mxCell id="12QfZj_Pv1xLxBVcL5fY-19" value="&lt;b&gt;DMZ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
+        <mxCell id="12QfZj_Pv1xLxBVcL5fY-19" value="&lt;b&gt;IDMZ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="409.83022388059686" y="48.39" width="55.97014925373134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-9" value="&lt;b&gt;云龙机房&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;fontSize=14;" vertex="1" parent="1">
