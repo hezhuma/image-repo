@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T06:18:04.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vBOsIwKIlSEoVyflNKUa" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T06:22:10.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AJhi5WF1iRkjmhWl0OYD" version="21.0.2" type="github">
   <diagram name="第 1 页" id="He39Cw0mRwXLMU8mr1HO">
-    <mxGraphModel dx="851" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="124" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,15 @@
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-23" value="&lt;b&gt;APP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="268.0002238805969" y="350" width="55.97014925373134" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12QfZj_Pv1xLxBVcL5fY-24" value="内部服务网关" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
+          <mxGeometry x="335" y="388.75" width="175" height="282.5" as="geometry" />
+        </mxCell>
+        <mxCell id="12QfZj_Pv1xLxBVcL5fY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="12QfZj_Pv1xLxBVcL5fY-5" source="12QfZj_Pv1xLxBVcL5fY-24" target="12QfZj_Pv1xLxBVcL5fY-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12QfZj_Pv1xLxBVcL5fY-27" value="API网关" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
+          <mxGeometry x="93" y="388.75" width="175" height="282.5" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-9" value="&lt;b&gt;云龙机房&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1695" y="40" width="670" height="1040" as="geometry" />
