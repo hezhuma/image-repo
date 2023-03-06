@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T03:51:05.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_bRinh1956hwODyddina" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T03:51:36.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IeFUtePKu8knCHWgYL4m" version="21.0.2" type="github">
   <diagram name="第 1 页" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="192" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-16" value="" style="fillColor=none;strokeColor=#000000;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#000000;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="347.17" y="48.39" width="212.83" height="261.61" as="geometry" />
         </mxCell>
-        <mxCell id="12QfZj_Pv1xLxBVcL5fY-17" value="&lt;font color=&quot;#000000&quot;&gt;负载F5&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;igw.general.cmft&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/LoadBalancer.svg;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
+        <mxCell id="12QfZj_Pv1xLxBVcL5fY-17" value="&lt;font color=&quot;#000000&quot;&gt;负载F5&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;igw.general.cmft&lt;br&gt;&lt;/font&gt;10.16.130.66:80&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/LoadBalancer.svg;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
           <mxGeometry x="439.92079303753707" y="100.00004709576137" width="27.578903242175866" height="27.578903242175866" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-18" value="general-internal-nginx&lt;br&gt;10.16.6.135-136" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
