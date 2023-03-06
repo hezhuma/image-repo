@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T06:56:44.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="n-OXLYs8kDQRbeCz-_GL" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-06T06:57:09.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="osfGoXE565PE8p7f-hm1" version="21.0.2" type="github" pages="2">
   <diagram name="现状部署图" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="469" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,12 +183,6 @@
             <mxPoint x="363.11999999999995" y="297.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aXxSjelZ2g2uKkBnGhGE-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=0.5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="aXxSjelZ2g2uKkBnGhGE-2" source="aXxSjelZ2g2uKkBnGhGE-25" target="aXxSjelZ2g2uKkBnGhGE-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="368.9242223309848" y="205.62990351877522" as="sourcePoint" />
-            <mxPoint x="150.14399999999995" y="349.125" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aXxSjelZ2g2uKkBnGhGE-17" value="&lt;b&gt;lemon-gateway-metadata&lt;/b&gt;&lt;br&gt;10.18.4.151-152" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="aXxSjelZ2g2uKkBnGhGE-2">
           <mxGeometry x="340.82687999999985" y="560" width="17.849461132075465" height="17.849461132075465" as="geometry" />
         </mxCell>
@@ -221,6 +215,12 @@
         </mxCell>
         <mxCell id="UGcJiPvdgLGFpGg6_YFi-1" value="&lt;b&gt;general-oss-igw&lt;/b&gt;&lt;br&gt;10.16.6.137-138" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Grid3x3.svg;dashed=1;strokeColor=#3399FF;strokeWidth=2;" vertex="1" parent="aXxSjelZ2g2uKkBnGhGE-2">
           <mxGeometry x="370.71447999999987" y="385" width="17.849461132075465" height="17.849461132075465" as="geometry" />
+        </mxCell>
+        <mxCell id="UGcJiPvdgLGFpGg6_YFi-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=0.5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="aXxSjelZ2g2uKkBnGhGE-2" source="aXxSjelZ2g2uKkBnGhGE-25" target="UGcJiPvdgLGFpGg6_YFi-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="217" as="sourcePoint" />
+            <mxPoint x="265" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aXxSjelZ2g2uKkBnGhGE-26" value="&lt;b&gt;云龙机房&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;fontSize=14;" vertex="1" parent="aXxSjelZ2g2uKkBnGhGE-1">
           <mxGeometry x="1355" y="60" width="290" height="910" as="geometry" />
@@ -268,6 +268,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-145" y="217" as="sourcePoint" />
             <mxPoint x="-151" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGcJiPvdgLGFpGg6_YFi-4" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=0.5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="aXxSjelZ2g2uKkBnGhGE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="267" as="sourcePoint" />
+            <mxPoint x="1090" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
