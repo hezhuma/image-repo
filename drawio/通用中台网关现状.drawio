@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T03:26:07.439Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MhtIL78bzDst0Xmj70c-" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-07T03:26:29.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="X3v20Ky3X4KD4rzDk7oU" version="21.0.2" type="github" pages="2">
   <diagram name="现状部署图" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="961" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,13 +107,13 @@
           <mxGeometry x="1340" y="60" width="350" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-53" value="配置库MYSQL ×2&lt;br&gt;10.116.52.167-168" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="DfbgWeB_NsEgsS6yjiNx-1" vertex="1">
-          <mxGeometry x="71.81682539682575" y="965.9999999999998" width="46.63936507936507" height="42.043749999999996" as="geometry" />
+          <mxGeometry x="56.81682539682575" y="969.9999999999998" width="46.63936507936507" height="42.043749999999996" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-57" value="&lt;span style=&quot;font-size: 10px&quot;&gt;通用RabbitMQ x3&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;10.116.52.148-150&lt;/span&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mq;" parent="DfbgWeB_NsEgsS6yjiNx-1" vertex="1">
-          <mxGeometry x="179.51380952380956" y="968.2737499999998" width="37.498055555555545" height="37.498055555555545" as="geometry" />
+          <mxGeometry x="168.51380952380956" y="976.2737499999998" width="37.498055555555545" height="37.498055555555545" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-59" value="Idgen序号Redis×6&lt;br&gt;10.18.4.136-141" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;strokeColor=#009900;strokeWidth=2;" parent="DfbgWeB_NsEgsS6yjiNx-1" vertex="1">
-          <mxGeometry x="270.9800000000002" y="966" width="55.33" height="46.48" as="geometry" />
+          <mxGeometry x="259.9800000000002" y="970" width="55.33" height="46.48" as="geometry" />
         </mxCell>
         <mxCell id="12QfZj_Pv1xLxBVcL5fY-44" value="" style="fillColor=none;strokeColor=#000000;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#000000;strokeWidth=2;" parent="DfbgWeB_NsEgsS6yjiNx-1" vertex="1">
           <mxGeometry x="41.00000000000014" y="686" width="247.98" height="223.9" as="geometry" />
