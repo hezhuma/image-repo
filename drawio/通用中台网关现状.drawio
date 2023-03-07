@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T01:56:46.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qEd1z_f-ef8vLXdwtkbr" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-07T01:56:52.759Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5-NbwrBbqSrAYFjlvkDm" version="21.0.2" type="github" pages="2">
   <diagram name="现状部署图" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="663" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="674.5198299029125" y="337.6600000000001" width="17.50286965378274" height="17.50286965378274" as="geometry" />
         </mxCell>
         <mxCell id="DfbgWeB_NsEgsS6yjiNx-6" value="API网关" style="fillColor=none;strokeColor=#b9136c;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;" vertex="1" parent="12QfZj_Pv1xLxBVcL5fY-5">
-          <mxGeometry x="56.1" y="90" width="167.79" height="358.83" as="geometry" />
+          <mxGeometry x="55.1" y="90" width="167.79" height="358.83" as="geometry" />
         </mxCell>
         <mxCell id="DfbgWeB_NsEgsS6yjiNx-1" value="&lt;b&gt;云龙机房&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;fontSize=14;strokeColor=#b9136c;" vertex="1" parent="1">
           <mxGeometry x="1660" y="60" width="815" height="910" as="geometry" />
