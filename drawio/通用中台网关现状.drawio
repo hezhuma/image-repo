@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T06:47:07.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7tX4E2k2psQ9XnZqTT2d" version="21.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-07T06:51:23.743Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Nu5T3K4mVmtkLiyIqKdl" version="21.0.2" type="github" pages="3">
   <diagram name="现状部署图" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="961" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -381,6 +381,12 @@
         </mxCell>
         <mxCell id="SFB1LtPoYdYiUwGVJSjf-5" value="" style="fillColor=none;strokeColor=#b9136c;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;" vertex="1" parent="1">
           <mxGeometry x="919.9999999999999" y="69.99846153846156" width="184.9" height="402.52747252747247" as="geometry" />
+        </mxCell>
+        <mxCell id="dGdrqTf9v4ioINuRHdb1-1" value="" style="fillColor=none;strokeColor=#000000;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="890.26" y="40" width="244.04" height="447.66" as="geometry" />
+        </mxCell>
+        <mxCell id="kQDJ8Wsq72TjpNJpYmNo-1" value="&lt;b&gt;DMZ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890.083434771772" y="41.442458791208814" width="44.78481379510215" height="28.557692307692307" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
