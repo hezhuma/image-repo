@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T07:19:30.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3DYjkvutzFiJ86hyTava" version="21.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-07T07:20:45.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="XTpcKqosZ3z9jqnBJ776" version="21.0.2" type="github" pages="3">
   <diagram name="现状部署图" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="961" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -386,7 +386,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBaUF4u2-aqWSjBM3Oqp-8" value="根据URL前缀转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HBaUF4u2-aqWSjBM3Oqp-7">
+        <mxCell id="HBaUF4u2-aqWSjBM3Oqp-8" value="根据URL路由" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HBaUF4u2-aqWSjBM3Oqp-7">
           <mxGeometry x="-0.7826" y="2" relative="1" as="geometry">
             <mxPoint x="71" y="44" as="offset" />
           </mxGeometry>
