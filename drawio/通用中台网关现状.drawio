@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T03:33:32.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2-FtcXX8B-Jg-qPCGisr" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-07T03:33:41.675Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="C7hEiS-SC4StdYxTEH3f" version="21.0.2" type="github" pages="2">
   <diagram name="现状部署图" id="He39Cw0mRwXLMU8mr1HO">
     <mxGraphModel dx="961" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
         <mxCell id="UGcJiPvdgLGFpGg6_YFi-22" value="&lt;b&gt;西片区机房&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=zone;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;fontSize=14;strokeColor=#B5739D;" parent="aXxSjelZ2g2uKkBnGhGE-1" vertex="1">
           <mxGeometry x="1390" y="60" width="510" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="_StGeKf7EWypZAfqr6Xh-0" value="" style="fillColor=none;strokeColor=#808080;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#000000;strokeWidth=2;" vertex="1" parent="UGcJiPvdgLGFpGg6_YFi-22">
+        <mxCell id="_StGeKf7EWypZAfqr6Xh-0" value="" style="fillColor=#f5f5f5;strokeColor=#666666;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#333333;strokeWidth=2;" vertex="1" parent="UGcJiPvdgLGFpGg6_YFi-22">
           <mxGeometry x="20" y="42.34" width="184.86" height="417.66" as="geometry" />
         </mxCell>
         <mxCell id="_StGeKf7EWypZAfqr6Xh-1" value="&lt;font color=&quot;#808080&quot;&gt;负载F5&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/LoadBalancer.svg;strokeColor=#808080;strokeWidth=2;" vertex="1" parent="UGcJiPvdgLGFpGg6_YFi-22">
