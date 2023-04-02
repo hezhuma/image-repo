@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T15:19:58.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JX1L5gSap8ht3-rKc60v" version="21.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-02T15:20:07.987Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Pp9bJaH4-M32TJhcqlwi" version="21.1.2" type="github" pages="7">
   <diagram id="1JprEtXCutOCYBpSkiVs" name="用例">
     <mxGraphModel dx="1194" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -408,7 +408,7 @@
         <mxCell id="RIuTpocE-qcXHxML-0a--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RIuTpocE-qcXHxML-0a--3" source="RIuTpocE-qcXHxML-0a--5" target="RIuTpocE-qcXHxML-0a--6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RIuTpocE-qcXHxML-0a--5" value="接收支付结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="RIuTpocE-qcXHxML-0a--3">
+        <mxCell id="RIuTpocE-qcXHxML-0a--5" value="接收逾期消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="RIuTpocE-qcXHxML-0a--3">
           <mxGeometry x="97" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RIuTpocE-qcXHxML-0a--6" value="参数校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="RIuTpocE-qcXHxML-0a--3">
