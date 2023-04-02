@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T14:37:56.739Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SlnI1f4BmX14X1yZ5GG5" version="21.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-02T14:38:13.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pm2fG6YBJxi28dWooPjs" version="21.1.2" type="github" pages="5">
   <diagram name="数据模型" id="6-SWjBNbYF1UBRRyzqcM">
     <mxGraphModel dx="1194" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -285,11 +285,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="借款结果查询" id="9qeOt9_2nvUjBEc9CzWJ">
-    <mxGraphModel dx="1194" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="770" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hk5Wb2nlaeSH1RcyNxn6-0" />
         <mxCell id="hk5Wb2nlaeSH1RcyNxn6-1" parent="hk5Wb2nlaeSH1RcyNxn6-0" />
-        <mxCell id="hk5Wb2nlaeSH1RcyNxn6-2" value="借款申请" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="hk5Wb2nlaeSH1RcyNxn6-1">
+        <mxCell id="hk5Wb2nlaeSH1RcyNxn6-2" value="借款结果查询" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="hk5Wb2nlaeSH1RcyNxn6-1">
           <mxGeometry x="54" y="30" width="720" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="hk5Wb2nlaeSH1RcyNxn6-3" value="和动力" style="swimlane;html=1;startSize=20;" vertex="1" parent="hk5Wb2nlaeSH1RcyNxn6-2">
