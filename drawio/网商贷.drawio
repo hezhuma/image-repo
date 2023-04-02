@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T15:37:40.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_uyqj9FnJyA7kZa2DVvo" version="21.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-02T15:38:22.520Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZAFjfOuixRpA0tm2W1Dk" version="21.1.2" type="github" pages="7">
   <diagram id="1JprEtXCutOCYBpSkiVs" name="用例">
     <mxGraphModel dx="1194" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -332,7 +332,7 @@
         <mxCell id="QsdAMPa55JvfObeUrHbz-19" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="4wMntyXqbNmmh1sVlkXW-6">
           <mxGeometry x="295" y="445" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QsdAMPa55JvfObeUrHbz-22" value="查询金融中台是否存在授信订单" style="whiteSpace=wrap;html=1;" vertex="1" parent="4wMntyXqbNmmh1sVlkXW-6">
+        <mxCell id="QsdAMPa55JvfObeUrHbz-22" value="查询金融中台对应授信订单" style="whiteSpace=wrap;html=1;" vertex="1" parent="4wMntyXqbNmmh1sVlkXW-6">
           <mxGeometry x="85" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wMntyXqbNmmh1sVlkXW-8" value="金融中台" style="swimlane;html=1;startSize=20;" parent="4wMntyXqbNmmh1sVlkXW-1" vertex="1">
