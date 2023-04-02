@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T15:56:31.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BWXD0iQE9LxK8mn-4vWs" version="21.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-02T15:57:53.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OL7_QpXuBa2-lxqqMe8X" version="21.1.2" type="github" pages="7">
   <diagram id="1JprEtXCutOCYBpSkiVs" name="用例">
     <mxGraphModel dx="1194" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x2tjO4KKbQZCdMAJK7Y2" name="借款申请">
-    <mxGraphModel dx="1257" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
