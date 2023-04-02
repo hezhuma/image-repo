@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T16:24:27.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q_eSwv8rUUrc2Euw1piE" version="21.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-02T16:25:41.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pGYxm3tvzgDkFfuwPfg-" version="21.1.2" type="github" pages="7">
   <diagram id="1JprEtXCutOCYBpSkiVs" name="用例">
     <mxGraphModel dx="955" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -501,37 +501,26 @@
       <root>
         <mxCell id="JfwXoA1LLLNkWOz8xaSI-0" />
         <mxCell id="JfwXoA1LLLNkWOz8xaSI-1" parent="JfwXoA1LLLNkWOz8xaSI-0" />
-        <mxCell id="JfwXoA1LLLNkWOz8xaSI-2" value="借款申请" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="JfwXoA1LLLNkWOz8xaSI-1">
+        <mxCell id="JfwXoA1LLLNkWOz8xaSI-2" value="借款结果定时查询" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="JfwXoA1LLLNkWOz8xaSI-1">
           <mxGeometry x="54" y="30" width="720" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="JfwXoA1LLLNkWOz8xaSI-3" value="和动力" style="swimlane;html=1;startSize=20;" vertex="1" parent="JfwXoA1LLLNkWOz8xaSI-2">
           <mxGeometry y="20" width="210" height="980" as="geometry" />
         </mxCell>
-        <mxCell id="JfwXoA1LLLNkWOz8xaSI-4" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JfwXoA1LLLNkWOz8xaSI-3">
-          <mxGeometry x="58.75" y="70" width="92.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="JfwXoA1LLLNkWOz8xaSI-5" value="借款申请" style="whiteSpace=wrap;html=1;" vertex="1" parent="JfwXoA1LLLNkWOz8xaSI-3">
-          <mxGeometry x="52.5" y="150" width="105" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="JfwXoA1LLLNkWOz8xaSI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JfwXoA1LLLNkWOz8xaSI-3" source="JfwXoA1LLLNkWOz8xaSI-4" target="JfwXoA1LLLNkWOz8xaSI-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JfwXoA1LLLNkWOz8xaSI-7" value="供应链金融" style="swimlane;html=1;startSize=20;" vertex="1" parent="JfwXoA1LLLNkWOz8xaSI-2">
           <mxGeometry x="210" y="20" width="290" height="980" as="geometry" />
         </mxCell>
-        <mxCell id="JfwXoA1LLLNkWOz8xaSI-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="JfwXoA1LLLNkWOz8xaSI-7">
-          <mxGeometry x="92.5" y="260" width="105" height="50" as="geometry" />
+        <mxCell id="p-RXZ31BKioLDx9D0DII-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JfwXoA1LLLNkWOz8xaSI-7" source="JfwXoA1LLLNkWOz8xaSI-4" target="p-RXZ31BKioLDx9D0DII-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JfwXoA1LLLNkWOz8xaSI-4" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JfwXoA1LLLNkWOz8xaSI-7">
+          <mxGeometry x="92.5" y="70" width="92.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p-RXZ31BKioLDx9D0DII-0" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="JfwXoA1LLLNkWOz8xaSI-7">
+          <mxGeometry x="78.75" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JfwXoA1LLLNkWOz8xaSI-9" value="金融中台" style="swimlane;html=1;startSize=20;" vertex="1" parent="JfwXoA1LLLNkWOz8xaSI-2">
           <mxGeometry x="500" y="20" width="220" height="980" as="geometry" />
-        </mxCell>
-        <mxCell id="JfwXoA1LLLNkWOz8xaSI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JfwXoA1LLLNkWOz8xaSI-2" source="JfwXoA1LLLNkWOz8xaSI-5" target="JfwXoA1LLLNkWOz8xaSI-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="105" y="250" />
-              <mxPoint x="355" y="250" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
