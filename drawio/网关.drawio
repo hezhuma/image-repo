@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T02:24:08.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="QNNllTn55PFBr28N_62-" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T02:25:03.978Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xvr9cG4686RN-gazFuB-" version="21.2.7" type="github">
   <diagram name="第 1 页" id="AXyZzWkZ8pdj3_SeKa3W">
     <mxGraphModel dx="1194" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,49 +10,49 @@
         <mxCell id="RbALh9PVd331pO-roLNB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="130" y="180" width="530" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-3" value="短信能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-3" value="短信能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-4" value="电子签章能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-4" value="电子签章能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-5" value="图形验证码能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-5" value="图形验证码能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-6" value="短信验证码能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-6" value="短信验证码能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-7" value="企业信息认证能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-7" value="企业信息认证能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-8" value="行政区域查询能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-8" value="行政区域查询能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-9" value="IP地址查询能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-9" value="IP地址查询能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="400" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-10" value="节假日查询能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-10" value="节假日查询能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="520" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-11" value="短链能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-11" value="短链能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-12" value="取号能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-12" value="取号能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="330" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-13" value="号码识别能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-13" value="号码识别能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="330" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-14" value="敏感词检测能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-14" value="敏感词检测能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="330" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-15" value="消息通知能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-15" value="消息通知能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="390" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-16" value="地图位置查询能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-16" value="地图位置查询能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbALh9PVd331pO-roLNB-17" value="权限认证能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RbALh9PVd331pO-roLNB-17" value="权限认证能力" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
