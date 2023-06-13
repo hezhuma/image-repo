@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T15:43:01.904Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.6" etag="Wev9StvpsGGFtduJcST9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T10:10:49.502Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fmGGzvf6VoQVpYjDnCF6" version="21.3.8" type="github">
   <diagram name="第 1 页" id="ThrLly4dvOyv9YdBLNiv">
-    <mxGraphModel>
+    <mxGraphModel dx="843" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Yc0I8yPUItQjQTVF0rwn-3" value="&lt;font color=&quot;#ffffff&quot;&gt;[99.16% 30.200858ms ]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#69ce64;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="223.75" width="160" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc0I8yPUItQjQTVF0rwn-4" value="&amp;nbsp;com.cmft.pc.captcha.controller.CaptchaController:get()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="219.38" width="310" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
