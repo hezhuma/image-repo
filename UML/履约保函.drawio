@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T10:03:40.163Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="vwt8oQcXfRlZWX1v_E6Y" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-13T10:04:21.032Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_4IQi8mle3Mesaezr93c" version="22.1.0" type="github" pages="2">
   <diagram name="表结构" id="KoWEntiadN63PLK23MD9">
     <mxGraphModel dx="1646" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,8 +17,8 @@
         </mxCell>
         <mxCell id="7ERyFHSD4KPz3CF9Enf--8" value="履约保函保存按钮" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="7ERyFHSD4KPz3CF9Enf--1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-50" y="135" as="sourcePoint" />
-            <mxPoint x="44" y="134.9999999999999" as="targetPoint" />
+            <mxPoint x="-50" y="105" as="sourcePoint" />
+            <mxPoint x="44" y="104.99999999999989" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7ERyFHSD4KPz3CF9Enf--2" value="网关" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -34,12 +34,12 @@
           <mxGeometry x="840" y="70" width="100" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="7ERyFHSD4KPz3CF9Enf--6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="180" width="30" height="60" as="geometry" />
+          <mxGeometry x="30" y="150" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ERyFHSD4KPz3CF9Enf--10" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="7ERyFHSD4KPz3CF9Enf--2" parent="1">
+        <mxCell id="7ERyFHSD4KPz3CF9Enf--10" value="/gw/enterprise/perform/save" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="215" as="sourcePoint" />
-            <mxPoint x="355" y="214.9999999999999" as="targetPoint" />
+            <mxPoint x="180" y="185" as="sourcePoint" />
+            <mxPoint x="360" y="185.19999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7ERyFHSD4KPz3CF9Enf--11" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
@@ -48,10 +48,10 @@
             <mxPoint x="355" y="599.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ERyFHSD4KPz3CF9Enf--12" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="7ERyFHSD4KPz3CF9Enf--12" value="/enterprise/perform/save" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="225" as="sourcePoint" />
-            <mxPoint x="540" y="225" as="targetPoint" />
+            <mxPoint x="360" y="195" as="sourcePoint" />
+            <mxPoint x="540" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
