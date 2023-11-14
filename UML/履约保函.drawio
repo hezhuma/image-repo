@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T01:11:13.161Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FJVxEcPw_7_ikdDB86PW" version="22.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:11:40.278Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_DKzXf4qlZN5unxiaKZo" version="22.1.0" type="github" pages="8">
   <diagram name="表结构" id="KoWEntiadN63PLK23MD9">
     <mxGraphModel dx="1599" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -881,7 +881,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="视频上传" id="a4ZWS8myXGVLsERbBRA9">
-    <mxGraphModel dx="1806" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sA1CrLjSZGrmr99Uah7O-0" />
         <mxCell id="sA1CrLjSZGrmr99Uah7O-1" parent="sA1CrLjSZGrmr99Uah7O-0" />
@@ -986,7 +986,7 @@
         <mxCell id="sA1CrLjSZGrmr99Uah7O-24" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="sA1CrLjSZGrmr99Uah7O-1">
           <mxGeometry x="30" y="150" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sA1CrLjSZGrmr99Uah7O-25" value="/gw/enterprise/perform/apply" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sA1CrLjSZGrmr99Uah7O-1">
+        <mxCell id="sA1CrLjSZGrmr99Uah7O-25" value="/gw/enterprise/perform/upload/video" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sA1CrLjSZGrmr99Uah7O-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="185" as="sourcePoint" />
             <mxPoint x="360" y="185.19999999999993" as="targetPoint" />
@@ -998,7 +998,7 @@
             <mxPoint x="355" y="969.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sA1CrLjSZGrmr99Uah7O-27" value="/enterprise/perform/apply" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sA1CrLjSZGrmr99Uah7O-1">
+        <mxCell id="sA1CrLjSZGrmr99Uah7O-27" value="/enterprise/perform/upload/video" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sA1CrLjSZGrmr99Uah7O-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="195" as="sourcePoint" />
             <mxPoint x="540" y="195" as="targetPoint" />
