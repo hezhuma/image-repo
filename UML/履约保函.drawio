@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T01:31:58.709Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zFG235xFc1Px5NYTCbOh" version="22.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:35:28.746Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QSEqK1XhtEhYI0G2kPlm" version="22.1.0" type="github" pages="8">
   <diagram name="表结构" id="KoWEntiadN63PLK23MD9">
     <mxGraphModel dx="1599" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,20 +296,17 @@
     </mxGraphModel>
   </diagram>
   <diagram name="定时任务" id="6h563xAZ81nJO13rVtr9">
-    <mxGraphModel dx="1032" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="e8auTpnVxNonpmaQmCZJ-0" />
         <mxCell id="e8auTpnVxNonpmaQmCZJ-1" parent="e8auTpnVxNonpmaQmCZJ-0" />
-        <mxCell id="e8auTpnVxNonpmaQmCZJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="e8auTpnVxNonpmaQmCZJ-1">
-          <mxGeometry x="160" y="350" width="290" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="e8auTpnVxNonpmaQmCZJ-6" value="电子保函企业后台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="e8auTpnVxNonpmaQmCZJ-1">
           <mxGeometry x="190" y="60" width="100" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="e8auTpnVxNonpmaQmCZJ-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="e8auTpnVxNonpmaQmCZJ-6">
           <mxGeometry x="45" y="170" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e8auTpnVxNonpmaQmCZJ-8" value="参数合法性校验" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="e8auTpnVxNonpmaQmCZJ-6" target="e8auTpnVxNonpmaQmCZJ-7">
+        <mxCell id="e8auTpnVxNonpmaQmCZJ-8" value="待申请查询七天内状态不是（待申请、已驳回、&lt;br&gt;已出函、退款完成、已完成）的订单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="e8auTpnVxNonpmaQmCZJ-6" target="e8auTpnVxNonpmaQmCZJ-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="150" as="sourcePoint" />
             <Array as="points">
@@ -364,40 +361,11 @@
         <mxCell id="e8auTpnVxNonpmaQmCZJ-17" value="金融中台用户中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="e8auTpnVxNonpmaQmCZJ-1">
           <mxGeometry x="370" y="60" width="100" height="1210" as="geometry" />
         </mxCell>
-        <mxCell id="e8auTpnVxNonpmaQmCZJ-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="e8auTpnVxNonpmaQmCZJ-17">
-          <mxGeometry x="45" y="320" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="e8auTpnVxNonpmaQmCZJ-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="e8auTpnVxNonpmaQmCZJ-17">
-          <mxGeometry x="45" y="410" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="e8auTpnVxNonpmaQmCZJ-20" value="查询企业用户&lt;br&gt;/api/b/cst/user/enterprise/info" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="e8auTpnVxNonpmaQmCZJ-17" target="e8auTpnVxNonpmaQmCZJ-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-130" y="415" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e8auTpnVxNonpmaQmCZJ-21" value="返回企业用户信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="e8auTpnVxNonpmaQmCZJ-17" source="e8auTpnVxNonpmaQmCZJ-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-130.18965517241395" y="465" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e8auTpnVxNonpmaQmCZJ-22" value="金融中台资方中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="e8auTpnVxNonpmaQmCZJ-1">
           <mxGeometry x="540" y="60" width="100" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="e8auTpnVxNonpmaQmCZJ-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="e8auTpnVxNonpmaQmCZJ-22">
           <mxGeometry x="45" y="670" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="e8auTpnVxNonpmaQmCZJ-28" value="操作员查询&lt;br&gt;/api/b/cst/operator/info" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="e8auTpnVxNonpmaQmCZJ-1" target="e8auTpnVxNonpmaQmCZJ-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="385" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e8auTpnVxNonpmaQmCZJ-29" value="返回操作员信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="e8auTpnVxNonpmaQmCZJ-1" source="e8auTpnVxNonpmaQmCZJ-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="239.81034482758605" y="435" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e8auTpnVxNonpmaQmCZJ-30" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;企业信息认证&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e8auTpnVxNonpmaQmCZJ-1">
-          <mxGeometry x="160" y="350" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e8auTpnVxNonpmaQmCZJ-32" value="请求资方中心履约保函申请&lt;br&gt;&amp;nbsp;/cap/v1/letter-apply" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="e8auTpnVxNonpmaQmCZJ-1" target="e8auTpnVxNonpmaQmCZJ-23">
           <mxGeometry relative="1" as="geometry">
