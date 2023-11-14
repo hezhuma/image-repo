@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T01:29:50.779Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xKOWW206e2XoRqpf1m88" version="22.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:31:13.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZSA0hlmrqhoNP9L_qkV1" version="22.1.0" type="github" pages="8">
   <diagram name="表结构" id="KoWEntiadN63PLK23MD9">
     <mxGraphModel dx="1599" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -460,33 +460,11 @@
         <mxCell id="vOH020lmBwFBbMuNh3th-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="vOH020lmBwFBbMuNh3th-6">
           <mxGeometry x="45" y="520" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vOH020lmBwFBbMuNh3th-12" value="根据outOrderId和用户Id&lt;br&gt;查询t_perform_apply_info" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="vOH020lmBwFBbMuNh3th-6" target="vOH020lmBwFBbMuNh3th-11">
+        <mxCell id="vOH020lmBwFBbMuNh3th-12" value="根据当前登录用户和页面参数&lt;br&gt;查询履约保函订单表" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="vOH020lmBwFBbMuNh3th-6" target="vOH020lmBwFBbMuNh3th-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="500" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="80" y="530" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vOH020lmBwFBbMuNh3th-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="vOH020lmBwFBbMuNh3th-6">
-          <mxGeometry x="45" y="600" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vOH020lmBwFBbMuNh3th-14" value="判断订单是否存在，&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（1）若不存在，入库&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（2）若存在且当前状态为待申请或已驳回，更新数据库&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（3）若为其他状态，提示用户该状态订单不允许操作" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="vOH020lmBwFBbMuNh3th-6" target="vOH020lmBwFBbMuNh3th-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="580" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="80" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vOH020lmBwFBbMuNh3th-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="vOH020lmBwFBbMuNh3th-6">
-          <mxGeometry x="45" y="810" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vOH020lmBwFBbMuNh3th-16" value="若请求资金方结果响应正常，&lt;br&gt;更新数据库记录状态为待确认" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="vOH020lmBwFBbMuNh3th-6" target="vOH020lmBwFBbMuNh3th-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="790" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="80" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -512,9 +490,6 @@
         <mxCell id="vOH020lmBwFBbMuNh3th-22" value="金融中台资方中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vOH020lmBwFBbMuNh3th-1">
           <mxGeometry x="840" y="70" width="100" height="1210" as="geometry" />
         </mxCell>
-        <mxCell id="vOH020lmBwFBbMuNh3th-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vOH020lmBwFBbMuNh3th-22">
-          <mxGeometry x="45" y="670" width="10" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="vOH020lmBwFBbMuNh3th-24" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="vOH020lmBwFBbMuNh3th-1">
           <mxGeometry x="30" y="150" width="30" height="60" as="geometry" />
         </mxCell>
@@ -526,8 +501,8 @@
         </mxCell>
         <mxCell id="vOH020lmBwFBbMuNh3th-26" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="vOH020lmBwFBbMuNh3th-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="970" as="targetPoint" />
-            <mxPoint x="355" y="969.9999999999999" as="sourcePoint" />
+            <mxPoint x="182.5" y="684.5" as="targetPoint" />
+            <mxPoint x="357.5" y="684.4999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vOH020lmBwFBbMuNh3th-27" value="/enterprise/perform/apply" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vOH020lmBwFBbMuNh3th-1">
@@ -551,18 +526,8 @@
         </mxCell>
         <mxCell id="vOH020lmBwFBbMuNh3th-31" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="vOH020lmBwFBbMuNh3th-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="950" as="targetPoint" />
-            <mxPoint x="535" y="949.9999999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vOH020lmBwFBbMuNh3th-32" value="请求资方中心履约保函申请&lt;br&gt;&amp;nbsp;/cap/v1/letter-apply" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="vOH020lmBwFBbMuNh3th-1" target="vOH020lmBwFBbMuNh3th-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="745" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vOH020lmBwFBbMuNh3th-33" value="返回申请结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="vOH020lmBwFBbMuNh3th-1" source="vOH020lmBwFBbMuNh3th-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="815" as="targetPoint" />
+            <mxPoint x="362.5" y="664.5" as="targetPoint" />
+            <mxPoint x="537.5" y="664.4999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
