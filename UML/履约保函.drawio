@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T01:28:52.898Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Nqz4mZMTs3BiFBfe_CLi" version="22.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:29:11.712Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oy0hOS04m29Mfbwsx7t8" version="22.1.0" type="github" pages="8">
   <diagram name="表结构" id="KoWEntiadN63PLK23MD9">
     <mxGraphModel dx="1599" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -878,7 +878,7 @@
             <mxPoint x="547.5" y="990" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_kTzHXMdETGbrLTZEiN-62" value="调用金融中台文件邮寄接口" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="oB-YSxuonXVedZxubPmi-1" target="b_kTzHXMdETGbrLTZEiN-53">
+        <mxCell id="b_kTzHXMdETGbrLTZEiN-62" value="调用金融中台支付凭证上传接口" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="oB-YSxuonXVedZxubPmi-1" target="b_kTzHXMdETGbrLTZEiN-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="855" as="sourcePoint" />
           </mxGeometry>
