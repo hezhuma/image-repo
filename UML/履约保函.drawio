@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T00:44:58.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-8hzRyv3_89Y5HzJIhfH" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:01:49.956Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6ba2zk3d3afr1B-1iE1c" version="22.1.0" type="github" pages="3">
   <diagram name="表结构" id="KoWEntiadN63PLK23MD9">
     <mxGraphModel dx="1599" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,22 +66,11 @@
         <mxCell id="9ANCuwzTdb_cy9XaZoJt-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="7ERyFHSD4KPz3CF9Enf--3">
           <mxGeometry x="45" y="600" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9ANCuwzTdb_cy9XaZoJt-14" value="判断订单是否存在，若存在，&lt;br&gt;提示订单已存在" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="7ERyFHSD4KPz3CF9Enf--3" target="9ANCuwzTdb_cy9XaZoJt-13">
+        <mxCell id="9ANCuwzTdb_cy9XaZoJt-14" value="判断订单是否存在，&lt;br&gt;（1）若不存在，入库&lt;br&gt;（2）若存在且当前状态为待申请或已驳回，更新数据库&lt;br&gt;（3）若为其他状态，提示用户该状态订单不允许操作" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="7ERyFHSD4KPz3CF9Enf--3" target="9ANCuwzTdb_cy9XaZoJt-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="580" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="80" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9ANCuwzTdb_cy9XaZoJt-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="7ERyFHSD4KPz3CF9Enf--3">
-          <mxGeometry x="45" y="680" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9ANCuwzTdb_cy9XaZoJt-16" value="判断订单是否存在，若存在，&lt;br&gt;提示订单已存在" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="7ERyFHSD4KPz3CF9Enf--3" target="9ANCuwzTdb_cy9XaZoJt-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="660" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="80" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,8 +107,8 @@
         </mxCell>
         <mxCell id="7ERyFHSD4KPz3CF9Enf--11" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="840" as="targetPoint" />
-            <mxPoint x="355" y="839.9999999999999" as="sourcePoint" />
+            <mxPoint x="182.5" y="780" as="targetPoint" />
+            <mxPoint x="357.5" y="779.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7ERyFHSD4KPz3CF9Enf--12" value="/enterprise/perform/save" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -143,8 +132,8 @@
         </mxCell>
         <mxCell id="9ANCuwzTdb_cy9XaZoJt-17" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="820" as="targetPoint" />
-            <mxPoint x="535" y="819.9999999999999" as="sourcePoint" />
+            <mxPoint x="362.5" y="760" as="targetPoint" />
+            <mxPoint x="537.5" y="759.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
