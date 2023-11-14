@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T01:23:44.049Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tfl4SbOgoPbu9NyKV61Q" version="22.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:24:07.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SnOU0RNDG0ByfW94RDOS" version="22.1.0" type="github" pages="8">
   <diagram name="表结构" id="KoWEntiadN63PLK23MD9">
     <mxGraphModel dx="1599" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -830,7 +830,7 @@
         <mxCell id="b_kTzHXMdETGbrLTZEiN-54" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="oB-YSxuonXVedZxubPmi-1">
           <mxGeometry x="40" y="160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b_kTzHXMdETGbrLTZEiN-55" value="/gw/enterprise/perform/upload/video" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oB-YSxuonXVedZxubPmi-1">
+        <mxCell id="b_kTzHXMdETGbrLTZEiN-55" value="/gw/enterprise/perform/payCert" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oB-YSxuonXVedZxubPmi-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="195" as="sourcePoint" />
             <mxPoint x="370" y="195.19999999999993" as="targetPoint" />
@@ -842,7 +842,7 @@
             <mxPoint x="367.5" y="1010" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_kTzHXMdETGbrLTZEiN-57" value="/enterprise/perform/upload/video" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oB-YSxuonXVedZxubPmi-1">
+        <mxCell id="b_kTzHXMdETGbrLTZEiN-57" value="/enterprise/perform/payCert" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oB-YSxuonXVedZxubPmi-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="205" as="sourcePoint" />
             <mxPoint x="550" y="205" as="targetPoint" />
