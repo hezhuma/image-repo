@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T01:25:18.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-1YFkmKKOfCtci66Byip" version="22.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:25:24.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HlrEjqi2sPPzwk9F673s" version="22.1.0" type="github" pages="8">
   <diagram name="表结构" id="KoWEntiadN63PLK23MD9">
     <mxGraphModel dx="1599" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -686,7 +686,7 @@
             <mxPoint x="377.5" y="1020" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSFqQc10XfFQqeBujXwZ-57" value="/enterprise/perform/payCert" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="DtVK0GeAuha_YJqTpMVL-1">
+        <mxCell id="XSFqQc10XfFQqeBujXwZ-57" value="/enterprise/perform/mailInform" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="DtVK0GeAuha_YJqTpMVL-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="215" as="sourcePoint" />
             <mxPoint x="560" y="215" as="targetPoint" />
