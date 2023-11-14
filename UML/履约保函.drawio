@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T00:35:06.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iMiQAw7IdDXn90zEckx5" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-14T00:39:19.067Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1f0b01cL_tv9-DOBYd0U" version="22.1.0" type="github" pages="3">
   <diagram name="表结构" id="KoWEntiadN63PLK23MD9">
     <mxGraphModel dx="1599" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,7 +209,7 @@
         <mxCell id="7-E_OdX5mjBOg5fZoN4A-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="7-E_OdX5mjBOg5fZoN4A-6">
           <mxGeometry x="45" y="600" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-E_OdX5mjBOg5fZoN4A-14" value="判断订单是否存在，若存在，&lt;br&gt;提示订单已存在" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="7-E_OdX5mjBOg5fZoN4A-6" target="7-E_OdX5mjBOg5fZoN4A-13">
+        <mxCell id="7-E_OdX5mjBOg5fZoN4A-14" value="判断订单是否存在：&lt;br&gt;（1）若存在，更新数据库&lt;br&gt;（2）若不存在，入库&lt;br&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="7-E_OdX5mjBOg5fZoN4A-6" target="7-E_OdX5mjBOg5fZoN4A-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="580" as="sourcePoint" />
             <Array as="points">
