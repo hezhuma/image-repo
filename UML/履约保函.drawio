@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T01:13:41.487Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WrnG-78T8Vk30nXUNWhP" version="22.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:13:58.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="92OXhDBh1Mea8i2IaWgD" version="22.1.0" type="github" pages="8">
   <diagram name="表结构" id="KoWEntiadN63PLK23MD9">
     <mxGraphModel dx="1599" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1034,7 +1034,7 @@
             <mxPoint x="535" y="1050" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sA1CrLjSZGrmr99Uah7O-32" value="请求资方中心履约保函申请&lt;br&gt;&amp;nbsp;/cap/v1/letter-apply" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="sA1CrLjSZGrmr99Uah7O-1" target="sA1CrLjSZGrmr99Uah7O-23">
+        <mxCell id="sA1CrLjSZGrmr99Uah7O-32" value="调用金融中台文件邮寄接口&lt;br&gt;&amp;nbsp;/cap/v1/letter-apply" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="sA1CrLjSZGrmr99Uah7O-1" target="sA1CrLjSZGrmr99Uah7O-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="845" as="sourcePoint" />
           </mxGeometry>
